@@ -1,0 +1,13 @@
+{
+  "employee": [
+    {
+      "emp_name": "vishal",
+      "emp_age": "25",
+      "emp_address": "mumbai",
+      "emp_department": "Web Development",
+      "emp_salary": "1000",
+      "emp_maritalstate": true,
+      "id": 1
+    }
+  ]
+}
